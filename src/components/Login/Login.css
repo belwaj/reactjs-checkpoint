@@ -1,0 +1,32 @@
+*{
+  background-color: aliceblue;
+}
+
+.btn-primary{
+  border-color:#C06C84 ;
+  background-color: #f88195;
+}
+.form-label{
+  color: #6c5b7b;
+}
+.form-text{
+  color: #355c7D;
+}
+.form-control{
+  
+  color:#6c5b7b;
+}
+.form-check-label{
+  color: #355c7D;
+}
+.icon-img{
+  color: #355c7D;
+}
+a{
+  text-decoration: none;
+}
+.reset {
+  color: black;
+  margin-left: 6px;
+  text-decoration: none;
+}
